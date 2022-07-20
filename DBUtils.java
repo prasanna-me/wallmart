@@ -1,1 +1,1 @@
-mani new java
+MANI1
